@@ -1,0 +1,4 @@
+baseURL = "http://GordonGuenther.github.io/"
+languageCode = "en-us"
+title = "Gordon Günther"
+theme = "ananke"
